@@ -9,21 +9,27 @@
 - BA, Global Health	| Mercer University (_May 2019_)	 			        		
 
 ## Work Experience
-**Data Manager Contractor @ Centers for Disease Control and Prevention (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Manager Contractor @ Centers for Disease Control and Prevention (_June 2022 - Present_)**	- Conducts data collection, data management, and data transformation of emergency department visits drug overdose data from 50 states.
+- Utilizes SAS, R, Python, SQL, and Power BI to investigate data quality and to produce clean data sets ready for statistical analysis.
+- Conducts statistical analysis of drug overdoses rates to inform leadership on data trends.
+- Updates the public facing Drug Overdose Surveillance and Epidemiology dashboard to disseminate latest statistical analysis findings of drug overdose data.
+- Communicates with epidemiology team to provide insight on data errors and to improve data quality.
+- Documents SOPs of data management processes and documents step-by-step instructions of complex SAS programs, which are disseminated to 205 state recipients.
+- Collaborates with multidisciplinary teams to support ongoing overdose data to action projects and to ensure timely delivery of project results.
+
 
 **SAS Programmer Intern @ Centers for Disease Control and Prevention (_December 2020 - June 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+	Utilized SAS SQL, SAS Macros, and SAS SGPLOT to conduct data visualization, predictive analysis, and exploratory analysis of  >100,000 records of neuropathology data from the National Prion Disease Pathology Surveillance Center.
+	Utilized SAS to analyze subsets of data from ongoing Creutzfeldt-Jakob disease surveillance projects.
+	Assisted in data analysis interpretation and presented findings at weekly meetings. 
+	Utilized Red Cap to conduct data sequestration of vaccine administration errors for >800 medical COVID-19 records, to provide information on COVID-19 vaccine safety.
+
 
 ## Projects
 ### Predicting Life Expectancy with Regression Models
 [Predicting Life Expectancy](https://github.com/ANMVI/GA-final-project)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 
 ## Publications
