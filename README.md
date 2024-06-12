@@ -28,7 +28,7 @@
 
 ## Projects
 ### Predicting Life Expectancy with Regression Models
-[Predicting Life Expectancy]([(https://github.com/ANMVI/Project/tree/master)]
+[Predicting Life Expectancy][(https://github.com/ANMVI/Project/tree/master)]
 
 Developed regression models to determine factors that strongly predict life expectancy in the global context.
 
