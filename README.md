@@ -20,7 +20,7 @@
 - Documents standard operating procedures for data management processes and complex SAS programs, ensuring consistency and clarity for 205 
   state recipients, which increased data submission timeliness by 30%.
 - Provides technical assistance to stakeholders, which reduces data errors by 35% and enhances the overall quality of submitted data.
-- Designed and maintained an internal Power BI dashboard, which improved anomaly detection in US drug overdose trends by 15%.
+- Designed and maintained an internal Power BI dashboard, which improved anomaly detection in drug overdose trends by 15%.
 
 **SAS Programmer Intern @ Centers for Disease Control and Prevention (_December 2020 - June 2022_)**
 - Utilized SAS to conduct data visualization, predictive analysis, and exploratory analysis of  neuropathology data from the National Prion 
